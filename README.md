@@ -1,3 +1,7 @@
+# 👋 Welcome to My Profile
+
+![Code Illustration](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+
 # 💫 About Me:
 🧑‍💻 UI/UX Designer | Computer Science Student | Enthusiast in Blockchain and AI<br><br>I'm a Computer Science student with a strong interest in UI/UX design, web development, Blockchain, and Artificial Intelligence. 💻💡<br><br>🌟 I've worked on various projects, ranging from personal endeavors to small-scale businesses, and even some related to government initiatives.<br><br>🚀 I have a profound passion for the world of technology and aspire to actively contribute to its advancement.<br><br>📜 I hold several certifications in programming, showcasing my commitment to professional development.<br><br>💪 My motto: "Better to break now than to regret later." Let's embark on this incredible tech journey together!<br><br>Feel free to reach out to me for discussions or collaborations. 📫<br><br>Thank you for visiting my profile! 😄<br>
 
@@ -23,7 +27,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dinoxxc&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Dinoxxc&theme=radical&hide_border=false) </br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoxxc&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoxxc&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&margin-w=auto)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dinoxxc&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=20&margin-h=20)

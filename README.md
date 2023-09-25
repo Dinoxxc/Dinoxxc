@@ -30,7 +30,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoxxc&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&margin-w=auto)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dinoxxc&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=20&margin-h=20)
+![](https://github-profile-trophy.vercel.app/?username=Dinoxxc&theme=radical&no-frame=false&no-bg=false&column=6&margin-w=20&margin-h=20)
 
 ## ✍️ Programmer quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&margin-w=300)

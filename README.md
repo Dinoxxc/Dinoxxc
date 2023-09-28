@@ -26,7 +26,8 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dinoxxc&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Dinoxxc&theme=radical&hide_border=false) </br>
+![](https://github-readme-stats.vercel.app/api?username=Dinoxxc&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dinoxxc&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoxxc&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&margin-w=auto)
 
 ## 🏆 GitHub Trophies

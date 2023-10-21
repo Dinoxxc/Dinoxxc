@@ -1,6 +1,6 @@
 # 👋 Welcome to My Profile
 
-![Code Illustration](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![Code Illustration](https://github.com/Dinoxxc/Dinoxxc/blob/main/My.jpeg)
 
 # 💫 About Me:
 🧑‍💻 UI/UX Designer | Computer Science Student | Enthusiast in Blockchain and AI<br><br>I'm a Computer Science student with a strong interest in UI/UX design, web development, Blockchain, and Artificial Intelligence. 💻💡<br><br>🌟 I've worked on various projects, ranging from personal endeavors to small-scale businesses, and even some related to government initiatives.<br><br>🚀 I have a profound passion for the world of technology and aspire to actively contribute to its advancement.<br><br>📜 I hold several certifications in programming, showcasing my commitment to professional development.<br><br>💪 My motto: "Better to break now than to regret later." Let's embark on this incredible tech journey together!<br><br>Feel free to reach out to me for discussions or collaborations. 📫<br><br>Thank you for visiting my profile! 😄<br>

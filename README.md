@@ -1,138 +1,113 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Dinoxxc;UI/UX+Designer+%7C+CS+Student;Blockchain+%7C+AI+Enthusiast" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi+there!+I'm+Dinoxxc&fontSize=90" />
+</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=800&color=FF6B6B&center=true&vCenter=true&width=400&lines=UI/UX+Designer;Computer+Science+Student;Blockchain+%7C+AI+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+<h3 align="center">🌟 About Me</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dinoxxc&style=flat-square&color=ff6b6b&label=Profile+Views" alt="profile views" />
+</p>
+
+```javascript
+const dino = {
+  name: "Dinoxxc",
+  role: "UI/UX Designer & Developer",
+  passion: ["Web Development", "Blockchain", "Artificial Intelligence"],
+  motto: "Better to break now than to regret later 💪",
+  learning: "Always exploring new technologies!",
+  coffee: true
+};
+
+console.log("Let's build something amazing together! 🚀");
+```
+
+---
+
+<h3 align="center">📱 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://instagram.com/Dinoxxcs">
+    <img src="https://img.shields.io/badge/Instagram-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/andikanoorismawan">
+    <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/Anoorism">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="mailto:andikanoorismawan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFD93D?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💫 About Me:
+<h3 align="center">💻 Tech Stack</h3>
 
-🧑‍💻 UI/UX Designer | Computer Science Student | Enthusiast in Blockchain and AI  
+### 🎨 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,solidity,flutter&perline=8" />
+</p>
 
-I'm a Computer Science student with a strong interest in UI/UX design, web development, Blockchain, and Artificial Intelligence. 💻💡  
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,azure&perline=4" />
+</p>
 
-🌟 I've worked on various projects, ranging from personal endeavors to small-scale businesses, and even some related to government initiatives.  
+### 🛠️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,react,nextjs,nodejs&perline=6" />
+</p>
 
-🚀 I have a profound passion for the world of technology and aspire to actively contribute to its advancement.  
+### 🎭 Design Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,blender&perline=5" />
+</p>
 
-📜 I hold several certifications in programming, showcasing my commitment to professional development.  
-
-💪 My motto: "Better to break now than to regret later." Let's embark on this incredible tech journey together!  
-
-Feel free to reach out to me for discussions or collaborations. 📫  
-
-Thank you for visiting my profile! 😄  
-
----
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Dinoxxcs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andikanoorismawan)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/Anoorism)
-
----
-
-## 💻 Tech Stack:
-
-### Programming Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### Hosting/SaaS
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-### Framework & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&perline=4" />
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+<h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinoxxc&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoxxc&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinoxxc&theme=catppuccin&hide_border=true&include_all_commits=true&count_private=true&bg_color=45,ff6b6b,4ecdc4&title_color=fff&text_color=fff&icon_color=fff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoxxc&theme=catppuccin&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=45,ff6b6b,4ecdc4&title_color=fff&text_color=fff&icon_color=fff" height="180" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinoxxc&theme=radical&hide_border=true" alt="streak graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dinoxxc&theme=radical&no-bg=true&column=6&margin-w=10&margin-h=10" alt="trophy graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinoxxc&theme=catppuccin&hide_border=true&bg_color=45,ff6b6b,4ecdc4&title_color=fff&text_color=fff&icon_color=fff" />
+</p>
 
 ---
 
-## 🎮 Snake Game
+<h3 align="center">✨ Recent Activity</h3>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/Dinoxxc/Dinoxxc/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/Dinoxxc/Dinoxxc/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dinoxxc/Dinoxxc/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinoxxc&bg_color=45,ff6b6b,4ecdc4&color=ffffff&line=ffffff&point=ffd93d&area=true&hide_border=true" />
+</p>
 
 ---
 
-## ✍️ Random Dev Quote
+<h3 align="center">💬 Random Quote</h3>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</div>
-
----
-
-## 🔝 Top Contributed Repo
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api/?username=Dinoxxc&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="contributor stats" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dinoxxc&style=flat-square&color=00adb5&label=Profile+Views" alt="profile views" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks+for+visiting!+Let's+connect+and+build+together!+" />
+</p>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=180&section=footer" alt="footer" />
-</div>

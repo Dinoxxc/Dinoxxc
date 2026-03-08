@@ -1,113 +1,197 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi+there!+I'm+Dinoxxc&fontSize=90" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=800&color=FF6B6B&center=true&vCenter=true&width=400&lines=UI/UX+Designer;Computer+Science+Student;Blockchain+%7C+AI+Enthusiast" alt="Typing SVG" />
-</p>
+# ╔══════════════════════════════════════════════════════════════════╗
+# ║                                                                  ║
+# ║    █████╗  ██████╗ ██████╗███████╗███████╗ ██████╗                ║
+# ║   ██╔══██╗██╔════╝██╔════╝██╔════╝██╔════╝██╔═══██╗               ║
+# ║   ███████║██║     ██║     █████╗  ███████╗██║   ██║               ║
+# ║   ██╔══██║██║     ██║     ██╔══╝  ╚════██║██║   ██║               ║
+# ║   ██║  ██║╚██████╗╚██████╗███████╗███████║╚██████╔╝               ║
+# ║   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝╚══════╝╚══════╝ ╚═════╝                ║
+# ║                                                                  ║
+# ║    ██████╗ ███████╗ █████╗  ██████╗██╗  ██╗                     ║
+# ║   ██╔════╝ ██╔════╝██╔══██╗██╔════╝██║  ██║                     ║
+# ║   ██║  ███╗█████╗  ███████║██║     ███████║                     ║
+# ║   ██║   ██║██╔══╝  ██╔══██║██║     ██╔══██║                     ║
+# ║   ╚██████╔╝███████╗██║  ██║╚██████╗██║  ██║                     ║
+# ║    ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝                     ║
+# ║                                                                  ║
+# ╚══════════════════════════════════════════════════════════════════╝
 
----
+<br>
 
-<h3 align="center">🌟 About Me</h3>
+[![](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=500&color=00FF00&center=true&width=500&lines=%3E+INITIALIZING+SYSTEM...;%3E+LOADING+PROFILE...;%3E+HELLO+WORLD!;%3E+WELCOME+TO+MY+PROFILE)](https://github.com/Dinoxxc)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dinoxxc&style=flat-square&color=ff6b6b&label=Profile+Views" alt="profile views" />
-</p>
+<br>
 
-```javascript
-const dino = {
-  name: "Dinoxxc",
-  role: "UI/UX Designer & Developer",
-  passion: ["Web Development", "Blockchain", "Artificial Intelligence"],
-  motto: "Better to break now than to regret later 💪",
-  learning: "Always exploring new technologies!",
-  coffee: true
-};
-
-console.log("Let's build something amazing together! 🚀");
+```
+   ___                        _             
+  / __\___  _ __  ___  _   _| |_ _ __ ___ 
+ / /  / _ \| '_ \/ _ \| | | | __| '__/ _ \
+/ /__| (_) | | | | | | |_| | |_| | |  __/
+\____/\___/|_| |_| |_|\__,_|\__|_|  \___|
+                                        
+> STATUS: ONLINE
+> LOCATION: INDONESIA
+> ROLE: UI/UX DESIGNER & DEVELOPER
 ```
 
 ---
 
-<h3 align="center">📱 Connect With Me</h3>
+## ═════════════════════════════════════════════════════
+##  ⚡ WHO_AM_I
+## ═════════════════════════════════════════════════════
+
+```json
+{
+  "name": "Dinoxxc",
+  "full_name": "Andika Noor Ismawan",
+  "title": "UI/UX Designer | Computer Science Student",
+  "focus": ["Web Development", "Blockchain", "Artificial Intelligence"],
+  "motto": "Better to break now than to regret later",
+  "status": "Always learning & building"
+}
+```
+
+> 💡 "The best way to predict the future is to create it."
+
+---
+
+## ═════════════════════════════════════════════════════
+##  🎯 CURRENT_MISSION
+## ═════════════════════════════════════════════════════
+
+### 🔄 IN PROGRESS
+| Project | Description | Stack |
+|---------|-------------|-------|
+| Personal Portfolio | Building my creative portfolio | React, Tailwind |
+| Blockchain dApp | Exploring Web3 projects | Solidity, Ethers.js |
+| AI Integration | Learning AI/ML implementation | Python, TensorFlow |
+
+### 🚀 COMPLETED
+| Project | Description |
+|---------|-------------|
+| Multiple UI/UX Projects | Designed interfaces for various clients |
+| Government Systems | Contributed to gov tech initiatives |
+| Business Websites | Built solutions for small businesses |
+
+---
+
+## ═════════════════════════════════════════════════════
+##  🛠️ TOOLBOX
+## ═════════════════════════════════════════════════════
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  LANGUAGES                                             
+├─────────────────────────────────────────────────────────┤
+│  ████████  JavaScript    ████████████████████  85%    
+│  ████████  Python        ██████████████  70%          
+│  ████████  HTML/CSS      ██████████████████████  95%   
+│  ████████  Java          ████████████  60%            
+│  ████████  Solidity      ████████  40%                
+│  ████████  C++           ████████  40%                
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│  FRAMEWORKS & TOOLS                                    
+├─────────────────────────────────────────────────────────┤
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  React     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Next.js   
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Laravel   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Tailwind   
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Flutter   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Figma     
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Docker    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  AWS       
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ═════════════════════════════════════════════════════
+##  📊 SYSTEM_STATS
+## ═════════════════════════════════════════════════════
+
+<div align="center">
+
+```
+    ████████████    ████████████    ████████████
+    ██          ██  ██          ██  ██          ██
+    ██  █████  ██  ██  █████  ██  ██  █████  ██
+    ██  █████  ██  ██  █████  ██  ██  █████  ██
+    ██          ██  ██          ██  ██          ██
+    ████████████    ████████████    ████████████
+         ▼               ▼               ▼
+    [COMMITS]        [REPOS]         [YEARS]
+```
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinoxxc&theme=neon&hide_border=true&include_all_commits=true&count_private=true&bg_color=0,0,0&title_color=00ff00&text_color=00ff00&icon_color=00ff00" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoxxc&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0,0,0&title_color=00ff00&text_color=00ff00&icon_color=00ff00" height="150" />
+</div>
+
+---
+
+## ═════════════════════════════════════════════════════
+##  📡 TRANSMISSION_LINKS
+## ═════════════════════════════════════════════════════
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  AVAILABLE CHANNELS                                          ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  📸 Instagram  ▸  [Dinoxxcs]      ░░░░░░░░░░░░░░  ONLINE     ║
+║  💼 LinkedIn   ▸  [andikanoorismawan]  ░░░░░░░░░  ONLINE     ║
+║  🎨 Pinterest  ░  [Anoorism]      ░░░░░░░░░░░░░░  ONLINE     ║
+║  📧 Email      ░  [andikanoorismawan]  ░░░░░░░░  ONLINE     ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
   <a href="https://instagram.com/Dinoxxcs">
-    <img src="https://img.shields.io/badge/Instagram-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-00FF00?style=for-the-badge&logo=instagram&logoColor=black&bg_color=0,0,0" />
   </a>
   <a href="https://linkedin.com/in/andikanoorismawan">
-    <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black&bg_color=0,0,0" />
   </a>
   <a href="https://pinterest.com/Anoorism">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pinterest-00FF00?style=for-the-badge&logo=pinterest&logoColor=black&bg_color=0,0,0" />
   </a>
   <a href="mailto:andikanoorismawan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFD93D?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black&bg_color=0,0,0" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">💻 Tech Stack</h3>
+## ═════════════════════════════════════════════════════
+##  💭 RANDOM_THOUGHTS
+## ═════════════════════════════════════════════════════
 
-### 🎨 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,solidity,flutter&perline=8" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,azure&perline=4" />
-</p>
-
-### 🛠️ Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,react,nextjs,nodejs&perline=6" />
-</p>
-
-### 🎭 Design Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,blender&perline=5" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&perline=4" />
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=neon" />
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinoxxc&theme=catppuccin&hide_border=true&include_all_commits=true&count_private=true&bg_color=45,ff6b6b,4ecdc4&title_color=fff&text_color=fff&icon_color=fff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoxxc&theme=catppuccin&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=45,ff6b6b,4ecdc4&title_color=fff&text_color=fff&icon_color=fff" height="180" />
-</p>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ██████╗ ██████╗ ██╗██████╗ ███████╗██╗   ██╗               ║
+║  ██╔════╝ ██╔══██╗██║██╔══██╗██╔════╝██║   ██║               ║
+║  ██║  ███╗██████╔╝██║██║  ██║█████╗  ██║   ██║               ║
+║  ██║   ██║██╔══██╗██║██║  ██║██╔══╝  ╚██╗ ██╔╝               ║
+║  ╚██████╔╝██║  ██║██║██████╔╝███████╗ ╚████╔╝                ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝  ╚═══╝                 ║
+║                                                               ║
+║         > END OF TRANSMISSION <                              ║
+║         > THANKS FOR VISITING! <                              ║
+║         > SEE YOU IN THE MATRIX... <                          ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinoxxc&theme=catppuccin&hide_border=true&bg_color=45,ff6b6b,4ecdc4&title_color=fff&text_color=fff&icon_color=fff" />
-</p>
+</div>
 
----
-
-<h3 align="center">✨ Recent Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinoxxc&bg_color=45,ff6b6b,4ecdc4&color=ffffff&line=ffffff&point=ffd93d&area=true&hide_border=true" />
-</p>
-
----
-
-<h3 align="center">💬 Random Quote</h3>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks+for+visiting!+Let's+connect+and+build+together!+" />
-</p>
-
----
+</div>

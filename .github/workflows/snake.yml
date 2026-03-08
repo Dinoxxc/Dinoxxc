@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          username: ${{ github.repository_owner }}
+          svg_out_path: ./github-contribution-grid-snake.svg
+
+      - name: Push Snake
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: ":art: Update Snake Animation"
+          file_pattern: "*.svg"
